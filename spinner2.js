@@ -6,5 +6,6 @@ for (let spinner of spinners) {
   setTimeout(() => {
     process.stdout.write(spinner)
   }, x += 200)
+  
 }
 
